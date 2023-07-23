@@ -168,7 +168,7 @@ import * as flsFunctions from './modules/functions.js'
             ways[indLine].classList.add('active')
             imgs[indLine].classList.add('active')
             sheets[indLine].classList.add('active')
-        }, 100)
+        }, 1800)
 
         setInterval(() => {
             timer--
