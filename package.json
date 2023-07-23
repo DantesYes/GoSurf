@@ -10,7 +10,7 @@
     "zip": "gulp deployZIP --build",
     "deployFTP": "gulp deployFTP --build",
     "svgSprive": "gulp svgSprive",
-    "deploy": "gh-pages -d dist -r https://github.com/DantesYes/TestReposit",
+    "deploy": "gh-pages -d dist -r https://github.com/DantesYes/GoSurf.git",
     "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,json,html,css,md,yaml,yml}\"",
     "predeploy": "npm run build"
   },
