@@ -1,4 +1,4 @@
-# GoSurf (1440px)
+# GoSurf 
 
 -html
 
