@@ -1,4 +1,4 @@
-# GoSurf 
+# GoSurf (landing page)
 
 -html
 
