@@ -1,4 +1,4 @@
-# GoSurf
+# GoSurf (1440px)
 
 -html
 
@@ -7,3 +7,4 @@
 -js
 
 -gulp
+
