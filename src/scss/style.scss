@@ -84,6 +84,7 @@ body.lock {
     position: relative;
     opacity: 0;
     transition: all .4s ease-in-out;
+    z-index: 4;
 
     &::before {
         content: attr(data-shadow);
@@ -92,7 +93,7 @@ body.lock {
         left: 0;
         color: #FFF;
         font-size: 200px;
-
+        z-index: 4;
         font-style: normal;
         font-weight: 800;
         line-height: 156px;
